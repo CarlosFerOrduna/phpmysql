@@ -6,7 +6,7 @@
         <meta http-equiv="x-ua-compatible" content="ie=edge">
         <title>Insertar datos</title>
     </head>
-    <body>
+    <body style="text-align: center">
         <div>
             <form action="index.php" method="post">
                 <input type="text" name="texto" id="texto">
